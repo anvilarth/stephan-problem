@@ -1,4 +1,4 @@
 # stephan-problem
 <p align="center">
-![](stephan.gif)
+  <img src="stefan.git" width="256" title="Github Logo">
 </p>
