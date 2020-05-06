@@ -1,1 +1,2 @@
 # stephan-problem
+![](stephan.gif)
